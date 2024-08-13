@@ -1,10 +1,10 @@
-# 国内ChatGPT-4中文版镜像网站整理(2024/8/7)
+# 国内ChatGPT-4中文版镜像网站整理(2024/8/13)
 
 给大家整理了一些国内可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
 ## 国内ChatGPT中文版
 1. https://snakegpt.work —— 运营时长一年以上，支持GPT4、GPT4o，Midjourney绘画，国内邮箱直接注册
-2. https://gptcat.top/  ——  运营时长半年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude。
+2. [https://gptcat.top/](https://gptcat.top/login?invite_code=616f956)  ——  运营时长半年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude。
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
 4. http://gptdog.online/  —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
