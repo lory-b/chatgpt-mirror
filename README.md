@@ -1,4 +1,4 @@
-# 国内ChatGPT-4中文版镜像网站整理(2024/10/23)
+# 国内ChatGPT-4中文版镜像网站整理(2024/10/24)【镜像网站合集】
 
 给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
@@ -21,7 +21,7 @@
 3. https://tongyi.aliyun.com/    ——  通义千问，阿里云AI大模型
 4. https://kimi.moonshot.cn/    —— kimi助手，月之暗面出品
 
-## 其他用过的ChatGPT站点
+## 其他用过的ChatGPT镜像站点
 1. https://ai.minihuo.com/#/chat/1002
 2. https://freechatgpt.lol/
 3. https://chatai.lra.cn/#/home/chat
