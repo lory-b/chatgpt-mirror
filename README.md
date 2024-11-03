@@ -22,7 +22,7 @@
 4. https://kimi.moonshot.cn/    —— kimi助手，月之暗面出品
 
 ## 其他用过的ChatGPT镜像站点
-1. https://ai.minihuo.com/#/chat/1002
+1. https://ai1.yjie.fun/  GPT-4、文心一言等模型及插件功能免费无且限制使用，畅享体验🎉国内活跃活动ChatGPT的双千亿级大语言模型，提供信心服务！
 2. https://freechatgpt.lol/
 3. https://chatai.lra.cn/#/home/chat
 4. https://chat.haoce.com/
