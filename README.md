@@ -22,7 +22,7 @@
 
 ## 其他用过的ChatGPT镜像站点
 1. https://ai1.yjie.fun/  GPT-4、文心一言等模型及插件功能免费无且限制使用，畅享体验🎉国内活跃活动ChatGPT的双千亿级大语言模型，提供信心服务！
-2. https://Free.ai99.asia   免费公益站，可用模型：GPT-4o-mini，无需注册，打开即用，需访问密码（公众号SmallAi回复“密码”获取），承诺永久免费！
+2. https://Free.ai99.asia   
 3. https://chatai.lra.cn/#/home/chat
 4. https://chat.haoce.com/
 5. https://vipag4.aibeke.com/
