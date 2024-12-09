@@ -1,4 +1,4 @@
-# 国内ChatGPT-4中文版镜像网站整理(2024/12/08)
+# 国内ChatGPT-4中文版镜像网站整理(2024/12/09)
 
 给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
@@ -11,7 +11,7 @@
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
 4. http://gptdog.online/  —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
-![image](https://github.com/user-attachments/assets/d65a3fda-a30b-4ec3-b8ff-b3023577e859)
+
 
 ## 国内AI大模型
 
