@@ -21,25 +21,11 @@ ChatGPT 中文版是OpenAI开发的ChatGPT模型的中文优化版本，专门�
 
 ----
 
-### 国内 ChatGPT 镜像网站推荐
-
-以下是经过验证的几个国内ChatGPT镜像网站，供大家参考。每个站点支持的功能有所不同，请根据个人需求选择。
-
-1. **[SnakeGPT](https://snakegpt.work)**  
-   运营时长：2年  
-   特点：支持 GPT-4、GPT-4o、MidJourney绘图，国内邮箱可直接注册，无需翻墙。
-
-2. **[GPTCat](https://gptcat.net/)**  
-   运营时长：1年  
-   特点：与原官网一比一还原，支持实时语音对话和Claude 3（另一个AI模型），会员可同时使用GPT与Claude，支持Canvas模型。
-
-3. **[Ai-Panda](https://ai-panda.xyz/login?invite_code=34137c47)**  
-   运营时长：2年半  
-   特点：支持 GPT-4 和 GPT-4o，稳定性较好。
-
-4. **[GPTDog](http://gptdog.online/)**  
-   运营时长：1年半  
-   特点：存在一定的Bug，适合试用，但可能不适合长期使用。
+## 国内ChatGPT 镜像网站推荐
+1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画，国内邮箱直接注册
+2. [https://gptcat.net/](https://gptcat.net/) ——  运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型。
+3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
+4. http://gptdog.online/  —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
 ----
 
