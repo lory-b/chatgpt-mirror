@@ -10,17 +10,6 @@
 
 ----
 
-### 什么是 ChatGPT 中文版？
-
-ChatGPT 中文版是OpenAI开发的ChatGPT模型的中文优化版本，专门为中文用户提供流畅、精准的对话体验。
-
-**特点：**
-- **无需翻墙**：无需代理工具，国内用户直接访问。
-- **中文支持**：专为中文语境优化，理解和生成中文内容更加精准。
-- **功能扩展**：除了基础的聊天功能，还支持GPT-4和MJ绘图，可以应对翻译、写作、办公等多场景需求。
-
-----
-
 ## 国内ChatGPT 镜像网站推荐
 1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画，国内邮箱直接注册
 2. [https://gptcat.net/](https://gptcat.net/) ——  运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型。
