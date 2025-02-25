@@ -43,10 +43,11 @@ ChatGPT镜像网站具有以下优点：
 
 除了 ChatGPT 中文版，国内也有其他一些AI大模型平台，可以满足不同需求的用户：
 
-1. **[文心一言](https://yiyan.baidu.com/welcome)** - 百度的AI大模型
+1. **[DeepSeek](https://deeseek.com/)** - 国内最强大模型
 2. **[讯飞星火](https://xinghuo.xfyun.cn/)** - 讯飞的AI大模型
 3. **[通义千问](https://tongyi.aliyun.com/)** - 阿里云的AI大模型
 4. **[Kimi助手](https://kimi.moonshot.cn/)** - 月之暗面推出的AI助手
+5. **[文心一言](https://yiyan.baidu.com/welcome)** - 百度的AI大模型
 
 ----
 
@@ -79,6 +80,3 @@ ChatGPT镜像网站具有以下优点：
 通过以上镜像网站，你可以轻松使用国内版ChatGPT，而不必担心翻墙问题。文章中不仅提供了主流的镜像网站，还涉及了国内一些AI大模型平台，给用户提供更多的选择。如果你还在寻找更好的镜像站或对ChatGPT的使用有任何问题，不妨试试上述推荐的站点。
 
 ---
-
- 
-       
