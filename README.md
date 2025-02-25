@@ -20,7 +20,7 @@ ChatGPT镜像网站具有以下优点：
 ----
 
 ## 国内ChatGPT 镜像网站推荐
-1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长两年，支持GPT4、GPT4o，deepseek，Midjourney绘画，国内邮箱直接注册
+1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长两年，支持GPT4、GPT4o，GPT-o3,deepseek，Midjourney绘画，国内邮箱直接注册
 2. [https://gptcat.net/](https://gptcat.net/) ——  运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT-o1、GPT-o3与Claude，支持使用canvas模型。
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
 4. http://gptdog.online/  —— 运营时长一年半，bug比较多，大家可以看情况使用。
@@ -79,5 +79,5 @@ ChatGPT镜像网站具有以下优点：
 通过以上镜像网站，你可以轻松使用国内版ChatGPT，而不必担心翻墙问题。文章中不仅提供了主流的镜像网站，还涉及了国内一些AI大模型平台，给用户提供更多的选择。如果你还在寻找更好的镜像站或对ChatGPT的使用有任何问题，不妨试试上述推荐的站点。
 
 ---
-     
+
  
